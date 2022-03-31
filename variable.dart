@@ -1,4 +1,5 @@
 void main() {
   String name = 'sokheng';
-  print(name);
+  int old = 18;
+  print('My name is ${name}and I am ${old}years old');
 }
